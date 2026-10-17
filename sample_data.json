@@ -1,0 +1,23 @@
+
+{
+  "signup": {
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "DemoPass123"
+  },
+  "login": {
+    "email": "demo@example.com",
+    "password": "DemoPass123"
+  },
+  "create_class": {
+    "name": "Yoga",
+    "dateTime": "2026-12-15T09:00:00+05:30",
+    "instructor": "Anita Sharma",
+    "availableSlots": 20
+  },
+  "book_class": {
+    "class_id": 1,
+    "client_name": "Demo User",
+    "client_email": "demo@example.com"
+  }
+}
